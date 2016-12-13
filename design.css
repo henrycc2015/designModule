@@ -1,0 +1,34 @@
+#singleton, #factory, #bridge, #agent, #adapter, #observer, #Medium, #modules, #strategy, #visitor, #composite, #memo, #responsibilityChain, #share, #state{
+    width: 100px;
+    height: 50px;
+    margin: 0 auto;
+    border: 1px solid bisque  ;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 50px;
+    background:rgba(122,122,121,.6) no-repeat;
+    display: block;
+    float: left;
+    cursor:pointer;
+}
+.inform{
+    list-style: none;
+    padding: 0px;
+    width: 100%;
+    display: block;
+    float: left;
+}
+li{
+    display: block;
+    padding-bottom: 10px;
+}
+
+body{
+    background-color: bisque;
+    font-family: "Apple Symbols";
+    overflow-y: auto;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+    max-width: 100%;
+    display: block;
+}
